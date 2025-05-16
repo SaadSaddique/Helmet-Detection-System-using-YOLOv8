@@ -1,0 +1,6 @@
+train: ../training_data/images/training
+val: ../training_data/labels/validation
+#number of classes
+nc: 1
+#class names
+names: ['helmet']

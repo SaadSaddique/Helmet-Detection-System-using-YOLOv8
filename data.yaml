@@ -1,0 +1,4 @@
+train: /content/datasets/training_data/images/train  # Path to TRAINING IMAGES (not labels!)
+val: /content/datasets/training_data/images/val     # Path to VALIDATION IMAGES
+nc: 1
+names: ['helmet']
